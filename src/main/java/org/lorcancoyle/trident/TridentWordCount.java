@@ -1,6 +1,7 @@
 package org.lorcancoyle.trident;
 
 import org.lorcancoyle.trident.functions.HashRemover;
+import org.lorcancoyle.trident.functions.Split;
 
 import storm.trident.TridentTopology;
 import storm.trident.operation.builtin.Count;
